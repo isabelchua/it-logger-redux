@@ -9,17 +9,17 @@
     },
     {
       "id": 2,
-      "message": "Fixed hard drive on workstation 002",
-      "attention": false,
+      "message": "Broken hard drive on workstation 002",
+      "attention": true,
       "tech": "John Doe",
-      "date": "2019-05-31T16:18:04.245Z"
+      "date": "2020-09-16T00:36:40.725Z"
     },
     {
-      "message": "1122 wireless down",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
-      "id": 3
+      "id": 3,
+      "message": "Fixed wireless down",
+      "attention": false,
+      "tech": "Sam",
+      "date": "2020-09-16T00:36:30.069Z"
     },
     {
       "id": 4,
@@ -49,6 +49,11 @@
       "firstname": "Isabel",
       "lastname": "Chua",
       "id": 4
+    },
+    {
+      "firstname": "Forrest",
+      "lastname": "Chua",
+      "id": 5
     }
   ]
 }
